@@ -1,0 +1,22 @@
+{
+  "name": "angular-json",
+  "version": "1.0.0",
+  "authors": [
+    "Xavier Jodoin xavier@jodoin.me"
+  ],
+  "description": "Directive that parses json string to an object, and displays the object as a json string",
+  "main": "angular-json.js",
+  "keywords": [
+    "angular",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xjodoin/angular-json",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
